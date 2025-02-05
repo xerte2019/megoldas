@@ -1,0 +1,6 @@
+Válaszolj az alábbi kérdésekre:
+Írd bele a saját neved!
+Mi a Git és a GITHUB közötti különbség?
+Mit jelent a repository?
+Milyen feladatra jó a GITHUB?
+Mi a stage?
